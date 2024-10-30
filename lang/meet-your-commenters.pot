@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meet Your Commenters\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-28 00:12+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alberto Varela <alberto@berriart.com>\n"
+"Language-Team: Berriart <alberto@berriart.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /wp-content/plugins/meet-your-commenters\n"
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:51
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:171
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:238
+msgid "Meet your commenters"
+msgstr ""
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:67
+msgid "View all"
+msgstr ""
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:71
+msgid "No commenters with webpage found on this blog."
+msgstr ""
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:172
+#, php-format
+msgid "Here are listed the profiles and web pages of the commenters that have leave their URL. This is possible thanks to the Google Social Graph API. The profiles are showed because the commenter claims them as its owner on his web linking them with <em>rel=\"me\"</em>. The ones which are with italic font are not reliable and they could not be of the user. Visit %s if you have any doubt, comment or sugestion.</p>"
+msgstr ""
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:178
+msgid "Previous"
+msgstr ""
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:180
+msgid "Next"
+msgstr ""
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:213
+msgid "No more data available"
+msgstr ""
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:217
+#, php-format
+msgid "Latest posts commented by %s:"
+msgstr ""
+

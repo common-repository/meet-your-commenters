@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meet Your Commenters\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-28 00:12+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alberto Varela <alberto@berriart.com>\n"
+"Language-Team: Berriart <alberto@berriart.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /wp-content/plugins/meet-your-commenters\n"
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:51
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:171
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:238
+msgid "Meet your commenters"
+msgstr "Conoce a quien te comenta - MYC"
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:67
+msgid "View all"
+msgstr "Ver todos"
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:71
+msgid "No commenters with webpage found on this blog."
+msgstr "No se ha encontrado ningún usuario con web que haya comentado."
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:172
+#, php-format
+msgid "Here are listed the profiles and web pages of the commenters that have leave their URL. This is possible thanks to the Google Social Graph API. The profiles are showed because the commenter claims them as its owner on his web linking them with <em>rel=\"me\"</em>. The ones which are with italic font are not reliable and they could not be of the user. Visit %s if you have any doubt, comment or sugestion.</p>"
+msgstr "Aquí están listados los perfiles y páginas web de la gente que ha comentado en el blog y ha dejado escrita su URL. Esto es posible gracias la API Google Social Graph. Esto se puede hacer gracias a que el usuario lo ha marcado como propio utilizando para enlazarlo el atributo <em>rel=\"me\"</em>.  Los que se ven con la letra 'cursiva' son dudosos y puede que no pertenezcan realmente al usuario. Visita %s si tienes alguna duda, comentario o sugerencia."
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:178
+msgid "Previous"
+msgstr "Anterior"
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:180
+msgid "Next"
+msgstr "Siguiente"
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:213
+msgid "No more data available"
+msgstr "No hay datos disponibles"
+
+#: /var/www/berriart/httpdocs/wp-content/plugins/meet-your-commenters/meet-your-commenters.php:217
+#, php-format
+msgid "Latest posts commented by %s:"
+msgstr "Últimas entradas en las que ha comentado %s:"
+
